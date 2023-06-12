@@ -7,16 +7,16 @@ theme = 'mbtaca'
 
 [[menu.main]]
 name = "Home"
-url = "/"
+url = "/brookline-mbta-compliance-site/"
 weight = 1
 
 [[menu.main]]
 name = "All posts"
-url = "/posts"
+url = "/brookline-mbta-compliance-site/posts/"
 weight = 2
 
 [[menu.main]]
 name = "About"
-url = "/about"
+url = "/brookline-mbta-compliance-site/about/"
 weight = 3
 
