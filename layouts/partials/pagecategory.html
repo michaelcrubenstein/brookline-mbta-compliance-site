@@ -1,0 +1,12 @@
+
+{{ $sectionPages := where .Pages "Params.categories" "intersect" (slice .Category) }}
+{{ if (gt (len $sectionPages) 0) }}
+	<h2>{{ .Title }}</h2>
+	{{ range $sectionPages }}
+	<hr></hr>
+	<section class="list-item">
+		<p class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a></p>
+	</section>
+	{{ end }}
+{{ end }}
+

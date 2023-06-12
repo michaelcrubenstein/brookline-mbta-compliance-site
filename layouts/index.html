@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	{{ partial "header.html" . }}
+	<body>
+		<div class="content">
+			{{ partial "head.html" . }}
+			
+			<main class="list">
+				<div class="site-description">
+					{{- if isset .Site.Params "subtitle" -}}
+					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
+					{{- end -}}
+				</div>
+				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "The Law" "Title" "The Law") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Compliance" "Title" "Compliance") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Affordability" "Title" "Affordability") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Community" "Title" "Community") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Form-based Zoning" "Title" "Form-based Zoning") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Harvard Street Zoning Proposal" "Title" "Harvard Street Zoning Proposal") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "40B" "Title" "Chapter 40B") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Glossary" "Title" "Glossary") }}
+
+				{{ template "partials/paginator.html" . }}
+			</main>
+			{{ partial "footer.html" . }}
+		</div>
+		
+	</body>
+</html>
