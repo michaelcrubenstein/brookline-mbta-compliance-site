@@ -10,6 +10,8 @@ At least 50% of the district must be comprised of contiguous lots. Each part of 
 
 90% of the district must be within 0.5 miles of an MBTA subway station, commuter rail station, ferry terminal or bus station. 
 
+### Related Links
+
 [What is the town doing to comply with the MBTA-CA?](/posts/mbtaca-compliance-activity)
 
 [Why doesn't Brookline include Bus Stations in its transit area?](/posts/transit-area-excludes-bus-stations)

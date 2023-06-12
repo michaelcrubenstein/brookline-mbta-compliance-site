@@ -1,7 +1,6 @@
 ---
 title: "Overlay District"
 date: 2023-05-26
-draft: false
 categories: ["Glossary"]
 weight: 2060
 ---

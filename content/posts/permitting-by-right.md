@@ -1,7 +1,6 @@
 ---
 title: "Permitting As Of Right"
 date: 2023-05-26
-draft: false
 categories: ["Glossary"]
 weight: 2070
 ---
