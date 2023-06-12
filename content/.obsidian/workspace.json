@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/eohlc.md",
+                "file": "posts/special-permit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/eohlc.md",
+                "file": "posts/special-permit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/eohlc.md",
+                "file": "posts/special-permit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/eohlc.md"
+                "file": "posts/special-permit.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "1d3425a2f0d0e0ba",
   "lastOpenFiles": [
+    "posts/eohlc.md",
     "about.md",
     "posts/capacity.md",
     "posts/warrant-article-14.md",
@@ -172,7 +173,6 @@
     "posts/form-based-zoning-for-beacon-st-areas.md",
     "posts/form-based-zoning-categories.md",
     "posts/form-based-vs-conventional-zoning.md",
-    "posts/fair-share-concerns.md",
-    "posts/failure-to-comply.md"
+    "posts/fair-share-concerns.md"
   ]
 }
