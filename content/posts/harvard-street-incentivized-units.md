@@ -1,7 +1,6 @@
 ---
 title: "How many units of housing will be incentivized by the Harvard St plan?"
 date: 2023-05-26
-draft: true
 weight: 281
 categories: ["Harvard Street Zoning Proposal"]
 ---

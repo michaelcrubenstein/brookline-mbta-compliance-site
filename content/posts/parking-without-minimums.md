@@ -1,7 +1,7 @@
 ---
 title: "If we eliminate parking minimums, where will people who buy units without parking park?"
 date: 2023-05-26
-draft: true
+draft: false
 weight: 210
 categories: ["Community"]
 ---

@@ -1,7 +1,6 @@
 ---
 title: "What is the difference between form-based zoning and conventional zoning?"
 date: 2023-05-26
-draft: true
 weight: 250
 categories: ["Form-based Zoning"]
 ---

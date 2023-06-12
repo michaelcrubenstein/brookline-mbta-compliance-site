@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "30f048e85bf29b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "93db7a8c88ca712a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d3425a2f0d0e0ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "927101885cfc3036",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b14f393cae0d2ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f55a9a38a5515f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45dbb397f4aaf00c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"draft: true\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28bc8b71f6a539ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7978e64b10a7190",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9bf5183b54db12b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09f91262a28acf00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "about.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55fc0043d534e112",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "about.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9829c28d9af06f16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25798714b3a5aa88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "about.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1d3425a2f0d0e0ba",
+  "lastOpenFiles": [
+    "posts/warrant-article-14.md",
+    "posts/town-likely-to-build-housing-goal.md",
+    "posts/special-permit.md",
+    "posts/protecting-commercial-use.md",
+    "posts/permitting-by-right.md",
+    "posts/parking-without-minimums.md",
+    "posts/overlay-district.md",
+    "posts/other-solutions-to-abutter-concerns.md",
+    "posts/multi-family-vs-multi-use-buildings.md",
+    "posts/multi-family-housing-by-right.md",
+    "posts/mbtaca-prohibits-requiring-commercial-use.md",
+    "posts/mbtaca-compliance-activity.md",
+    "posts/mbtaca-affordable-housing-impact.md",
+    "posts/mbtaca-40B-impact.md",
+    "posts/m-district-design-standards.md",
+    "posts/liberty-vs-community.md",
+    "posts/inclusionary-zoning.md",
+    "posts/harvard-street-incentivized-units.md",
+    "posts/goals-of-the-town.md",
+    "posts/form-based-zoning-for-beacon-st-areas.md",
+    "posts/form-based-zoning-categories.md",
+    "posts/form-based-vs-conventional-zoning.md",
+    "posts/fair-share-concerns.md",
+    "posts/failure-to-comply.md",
+    "posts/eohlc-multi-family-housing-guidelines.md",
+    "posts/eohlc.md"
+  ]
+}

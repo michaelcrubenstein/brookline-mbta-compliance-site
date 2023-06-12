@@ -1,7 +1,6 @@
 ---
 title: "What’s wrong with our current zoning code aside from a lack of compliance with MBTA-CA?"
 date: 2023-05-26
-draft: true
 weight: 111
 categories: ["Compliance"]
 ---

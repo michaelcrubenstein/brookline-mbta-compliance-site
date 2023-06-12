@@ -1,7 +1,6 @@
 ---
 title: "Are there design principles or urban planning principles which would help specify how parking was or wasn't integrated into the form based zoning by-laws?"
 date: 2023-05-26
-draft: true
 weight: 260
 categories: ["Form-based Zoning"]
 ---

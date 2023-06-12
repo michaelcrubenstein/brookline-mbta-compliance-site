@@ -1,7 +1,6 @@
 ---
 title: "What kinds of zoning by-laws are form-based?"
 date: 2023-05-26
-draft: true
 weight: 240
 categories: ["Form-based Zoning"]
 ---

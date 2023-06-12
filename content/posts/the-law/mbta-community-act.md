@@ -1,7 +1,6 @@
 ---
 title: "What is the MBTA Community Act?"
 date: 2023-05-26
-draft: true
 weight: 10
 categories: ["The Law"]
 ---

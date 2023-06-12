@@ -1,7 +1,7 @@
 ---
 title: "If we only change our zoning to comply with the MBTA-CA without incentivizing more housing, will we still be forced to accept 40B projects?"
 date: 2023-05-26
-draft: true
+draft: false
 weight: 330
 categories: ["40B"]
 ---

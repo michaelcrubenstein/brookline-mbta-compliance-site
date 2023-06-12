@@ -1,7 +1,6 @@
 ---
 title: "MBTA-CA Compliance"
 date: 2023-05-26
-draft: true
 ---
 This FAQ is for residents of the Town of Brookline to get answers to their questions about if, how and when the Town of Brookline should change its zoning laws in order to be compliant with the MBTA Communities Act.
 

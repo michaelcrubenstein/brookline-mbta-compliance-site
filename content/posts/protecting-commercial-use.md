@@ -1,7 +1,7 @@
 ---
 title: "How can we keep our commercial districts like Coolidge Corner viable and still be compliant with the MBTA-CA?"
 date: 2023-05-26
-draft: true
+draft: false
 weight: 170
 categories: ["Community"]
 ---

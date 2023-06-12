@@ -1,7 +1,6 @@
 ---
 title: "Multi-Family Housing"
 date: 2023-05-26
-draft: true
 categories: ["Glossary"]
 weight: 2050
 ---

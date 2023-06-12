@@ -1,7 +1,6 @@
 ---
 title: "How can we prevent being forced to accept 40B projects?"
 date: 2023-05-26
-draft: true
 weight: 320
 categories: ["40B"]
 ---

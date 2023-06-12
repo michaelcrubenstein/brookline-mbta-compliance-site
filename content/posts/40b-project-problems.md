@@ -1,7 +1,6 @@
 ---
 title: "What’s wrong with all of the 40B projects that are happening?"
 date: 2023-05-26
-draft: true
 weight: 310
 categories: ["40B"]
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Would form-based zoning ideas transfer to areas of Beacon St that are potentially under-developed, such as St. Mary's, Summit Ave and Washington Square?"
 date: 2023-05-26
-draft: true
 weight: 271
 categories: ["Form-based Zoning"]
 ---

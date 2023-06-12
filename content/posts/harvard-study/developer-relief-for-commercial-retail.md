@@ -1,7 +1,6 @@
 ---
 title: "What incentives provide relief for developers if they add affordable housing to their buildings?"
 date: 2023-05-26
-draft: true
 weight: 150
 categories: ["Affordability"]
 ---

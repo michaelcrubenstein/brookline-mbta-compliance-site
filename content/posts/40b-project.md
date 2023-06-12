@@ -1,7 +1,6 @@
 ---
 title: "What is a 40B project?"
 date: 2023-05-26
-draft: true
 weight: 300
 categories: ["40B"]
 ---

@@ -1,7 +1,6 @@
 ---
 title: "What kinds of zoning would assuage the concerns of abutters to mixed use or multi-family buildings on Harvard St?"
 date: 2023-05-28
-draft: true
 weight: 180
 categories: ["Community"]
 ---

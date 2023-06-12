@@ -1,7 +1,6 @@
 ---
 title: "How much will the mandate of zoning 6990 units burden our schools and other town services?"
 date: 2023-05-26
-draft: true
 weight: 220
 categories: ["Community"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Why can’t we require commercial use on the first floor of building on Harvard Street and remain compliant with the MBTA-CA?"
 date: 2023-05-26
-draft: true
+draft: false
 weight: 60
 categories: ["The Law"]
 ---

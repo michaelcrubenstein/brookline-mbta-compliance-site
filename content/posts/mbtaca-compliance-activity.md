@@ -1,7 +1,7 @@
 ---
 title: "What is the town doing to comply with the MBTA-CA?"
 date: 2023-05-26
-draft: true
+draft: false
 weight: 80
 categories: ["Compliance"]
 ---

@@ -1,7 +1,6 @@
 ---
 title: "How do we balance the rights of people to do what they want with their property and the rights of residents to be able to control the character of their neighborhoods?"
 date: 2023-05-26
-draft: true
 weight: 160
 categories: ["Community"]
 ---

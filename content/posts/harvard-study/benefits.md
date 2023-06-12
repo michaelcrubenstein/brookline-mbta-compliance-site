@@ -1,7 +1,6 @@
 ---
 title: "What might the Harvard Street proposal accomplish besides MBTA-CA compliance?"
 date: 2023-05-26
-draft: true
 weight: 280
 categories: ["Harvard Street Zoning Proposal"]
 ---

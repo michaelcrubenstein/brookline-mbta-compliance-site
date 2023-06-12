@@ -1,7 +1,6 @@
 ---
 title: "Capacity"
 date: 2023-06-10
-draft: true
 weight: 1000
 categories: ["Glossary"]
 weight: 2020

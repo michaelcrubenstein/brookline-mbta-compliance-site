@@ -1,7 +1,6 @@
 ---
 title: "What goals does the town have besides compliance with the MBTA-CA?"
 date: 2023-05-26
-draft: true
 weight: 100
 categories: ["Compliance"]
 ---
