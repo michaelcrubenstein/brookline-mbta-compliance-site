@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "posts/eohlc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "posts/eohlc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "posts/eohlc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "posts/eohlc.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "1d3425a2f0d0e0ba",
   "lastOpenFiles": [
+    "about.md",
+    "posts/capacity.md",
     "posts/warrant-article-14.md",
     "posts/town-likely-to-build-housing-goal.md",
     "posts/special-permit.md",
@@ -171,8 +173,6 @@
     "posts/form-based-zoning-categories.md",
     "posts/form-based-vs-conventional-zoning.md",
     "posts/fair-share-concerns.md",
-    "posts/failure-to-comply.md",
-    "posts/eohlc-multi-family-housing-guidelines.md",
-    "posts/eohlc.md"
+    "posts/failure-to-comply.md"
   ]
 }
