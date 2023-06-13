@@ -4,7 +4,7 @@ date: 2023-05-26
 weight: 20
 categories: ["The Law"]
 ---
-Because Brookline is a "rapid transit community" (i.e., it has sufficient developable land close to the Green Line B, C and D branches), the town must submit a plan to be approved by the Executive Office of Housing and Livable Communities ([EOHLC](eohlc.md)) by December 31st, 2023.
+Because Brookline is a "rapid transit community" (i.e., it has sufficient developable land close to the Green Line B, C and D branches), the town must submit a plan to be approved by the Executive Office of Housing and Livable Communities ([EOHLC]( {{< ref eohlc >}} )) by December 31st, 2023.
 
 EOHLC has published {{< rawhtml >}}<a href="https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities" target="_new">final compliance guidelines</a>{{< /rawhtml >}} with which the plan Brookline submits must comply.
 
