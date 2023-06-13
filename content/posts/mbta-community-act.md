@@ -8,4 +8,4 @@ The MBTA Community Act is a bill that was passed into law in Massachusetts. It r
 
 The law is in {{< rawhtml >}}<a href="https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40A/Section3A" target="_new">General Laws, Part I, Title VII, Chapter 40A, Section 3A</a>{{< /rawhtml >}}. 
 
-[What does the MBTA-CA require that the Town of Brookline do?](posts/mbtaca-requirements)
+[What does the MBTA-CA require that the Town of Brookline do?]({{< ref "mbtaca-requirements" >}})
