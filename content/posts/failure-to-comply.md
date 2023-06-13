@@ -20,4 +20,4 @@ On the Town Meeting Member Association listserv, some town meeting members have 
 
 ### Related Links
 
-[What is the town doing to comply with the MBTA-CA?](/posts/mbtaca-compliance-activity)
+[What is the town doing to comply with the MBTA-CA?]( {{< ref mbtaca-compliance-activity >}} ) 
