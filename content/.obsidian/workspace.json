@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/other-solutions-to-abutter-concerns.md",
+                "file": "posts/voting-threshold-for-zoning.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/other-solutions-to-abutter-concerns.md",
+                "file": "posts/voting-threshold-for-zoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/other-solutions-to-abutter-concerns.md",
+                "file": "posts/voting-threshold-for-zoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/other-solutions-to-abutter-concerns.md"
+                "file": "posts/voting-threshold-for-zoning.md"
               }
             }
           }
@@ -149,13 +148,19 @@
   },
   "active": "1d3425a2f0d0e0ba",
   "lastOpenFiles": [
+    "posts/mbta-community-act.md",
+    "posts/voting-threshold-for-zoning.md",
+    "posts/housing-choice-determination.md",
+    "posts/housing-choice.md",
+    "posts/transit-area-excludes-bus-stations.md",
+    "{{<.md",
+    "posts/mbtaca-requirements.md",
+    "posts/other-solutions-to-abutter-concerns.md",
     "posts/abutter-concerns.md",
     "posts/parking-concerns.md",
     "posts/eohlc-multi-family-housing-guidelines.md",
     "posts/eohlc.md",
     "posts/multi-family-housing.md",
-    "posts/mbta-community-act.md",
-    "posts/mbtaca-requirements.md",
     "posts/multi-family-housing-by-right.md",
     "posts/special-permit.md",
     "about.md",
@@ -166,14 +171,8 @@
     "posts/permitting-by-right.md",
     "posts/parking-without-minimums.md",
     "posts/overlay-district.md",
-    "posts/other-solutions-to-abutter-concerns.md",
     "posts/multi-family-vs-multi-use-buildings.md",
     "posts/mbtaca-prohibits-requiring-commercial-use.md",
-    "posts/mbtaca-compliance-activity.md",
-    "posts/mbtaca-affordable-housing-impact.md",
-    "posts/mbtaca-40B-impact.md",
-    "posts/m-district-design-standards.md",
-    "posts/liberty-vs-community.md",
-    "posts/inclusionary-zoning.md"
+    "posts/mbtaca-compliance-activity.md"
   ]
 }
