@@ -1,5 +1,5 @@
 ---
-title: "What is Housing Choice?"
+title: "Housing Choice?"
 date: 2023-06-13
 weight: 2038
 categories: ["Glossary"]
