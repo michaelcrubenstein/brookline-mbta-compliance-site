@@ -19,4 +19,6 @@ as links may change over time.
 Please send feedback to [Michael Rubenstein](mailto:mbtaca@michaelrubenstein.com?subject=FAQ) with
 further questions to add, requests for clarification, or corrections. Please include "FAQ" in the subject header.
 
-Current as of June 8, 2023
+Thanks to Cathleen Cavell for her help editing the content of this website.
+
+Current as of June 15, 2023
