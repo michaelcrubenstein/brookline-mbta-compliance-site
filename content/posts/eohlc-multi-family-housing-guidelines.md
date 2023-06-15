@@ -2,7 +2,7 @@
 title: "What guidelines has the EOHLC published?"
 date: 2023-05-26
 weight: 50
-categories: ["The Law"]
+categories: ["MBTA-CA Community Act"]
 ---
 The [EOHLC]( {{< ref eohlc >}} ) has published guidelines that describe how cities and towns must comply with the [MBTA-CA]( {{< ref mbta-community-act >}} ).
 

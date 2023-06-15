@@ -14,7 +14,7 @@
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 				{{ $pages := where $pages "Params.hidden" "ne" true }}
 
-				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "The Law" "Stub" "the-law" "Title" "MBTA-CA Community Act") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "MBTA-CA Community Act" "Stub" "MBTA-CA-Community-Act" "Title" "MBTA-CA Community Act") }}
 				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Housing Choice" "Stub" "housing-choice" "Title" "Housing Choice") }}
 				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Compliance" "Stub" "compliance" "Title" "Compliance") }}
 				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Form-based Zoning" "Stub" "form-based-zoning" "Title" "Form-based Zoning") }}

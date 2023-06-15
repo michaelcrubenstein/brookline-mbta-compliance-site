@@ -3,7 +3,7 @@ title: "What is the impact of requiring Brookline to create a zoning district wh
 date: 2023-05-26
 draft: false
 weight: 30
-categories: ["The Law"]
+categories: ["MBTA-CA Community Act"]
 ---
 The [MBTA Community Act (MBTA-CA)]( {{< ref mbta-community-act >}} ) and 
 [EOHLC Guidelines]( {{< ref eohlc-multi-family-housing-guidelines >}} ) require that all 

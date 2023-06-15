@@ -2,7 +2,7 @@
 title: "What is the MBTA Community Act?"
 date: 2023-05-26
 weight: 10
-categories: ["The Law"]
+categories: ["MBTA-CA Community Act"]
 ---
 The MBTA Community Act is a bill that was passed into law in Massachusetts. It requires zoning changes to allow multi-family housing as of right in the 175 communities that are served by the MBTA.
 
