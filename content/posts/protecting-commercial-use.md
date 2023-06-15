@@ -9,7 +9,9 @@ categories: ["Community"]
 2. The Economic Development Advisory Board and the Housing Advisory Board are working on a proposal to provide [developer relief for commercial retail]( {{< ref developer-relief-for-commercial-retail >}} ).
 3. By increasing the residential population that is proximate to Coolidge Corner, we can better support the commercial activity there.
 
-[Integrating commercial uses with other uses is one of the principles of a [15-minute community]( {{< ref 15-minute-communities >}} ).
+Integrating commercial uses with other uses is one of the principles of a [15-minute community]( {{< ref 15-minute-communities >}} ).
 
-How will form-based zoning help us comply with the MBTA-CA?]( {{< ref advantages-of-form-based-zoning >}} ) 
+### Related Links
+
+[How will form-based zoning help us comply with the MBTA-CA?]( {{< ref advantages-of-form-based-zoning >}} ) 
 

@@ -11,6 +11,8 @@ The town is proceeding in two ways:
 
 The {{< rawhtml >}}<a href="https://www.brooklinema.gov/2044/Multifamily-MBTA" target="_new">Planning Department's web page</a>{{< /rawhtml >}} devoted to this project answers this question in detail.
 
+### Related Links
+
 [What does the MBTA-CA require that the Town of Brookline do?]( {{< ref mbtaca-requirements >}} )
 
 [What goals does the town have besides compliance with the MBTA-CA?]( {{< ref goals-of-the-town >}} ) 

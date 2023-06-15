@@ -10,6 +10,8 @@ EOHLC has published {{< rawhtml >}}<a href="https://www.mass.gov/info-details/mu
 
 Because the plan will include changes to our zoning by-laws, the changes must be approved by Town Meeting at a special meeting in November, 2023. Depending on the changes, the warrant article containing the changes may require a 2/3 majority to be enacted.
 
+### Related Links
+
 [What are the requirements that Brookline zoning by-laws must meet to be compliant with the MBTA-CA?]( {{< ref brookline-zoning-by-law-requirements >}} ) 
 
 {{< rawhtml >}}<a href="https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities" target="_new">MBTA-CA Compliance Guidelines</a>{{< /rawhtml >}}

@@ -10,6 +10,8 @@ EOHLC enforces the MBTA-Communities Act by reviewing the plans from MBTA communi
 
 EOHLC has developed guidelines that specify what cities and towns need to do to comply with the MBTA-CA.
 
-{{< rawhtml >}}<a href="https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities" target="_new">Zoning Requirements for MBTA Communities</a>{{< /rawhtml >}}
-{{< rawhtml >}}<a href="https://www.mass.gov/info-details/section-3a-guidelines" target="_new">Section 3A Guidelines</a>{{< /rawhtml >}}
+### Related Links
+
+{{< rawhtml >}}<a href="https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities" target="_new">Zoning Requirements for MBTA Communities</a><br><br>
+<a href="https://www.mass.gov/info-details/section-3a-guidelines" target="_new">Section 3A Guidelines</a>{{< /rawhtml >}}
 

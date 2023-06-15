@@ -9,4 +9,6 @@ The MBTA Community Act does not require any housing to be built. It only require
 
 However, the Select Board’s charge to the {{< rawhtml >}}<a href="https://www.brooklinema.gov/3608/MBTA-CA-Multifamily-Permitting-Committee" target="_new">MBTA-CA Multifamily Permitting Committee</a>{{< /rawhtml >}} includes developing a plan to create at least 699 units, 10% of the total capacity required in Brookline’s MBTA-CA compliant zoning district.
 
+### Related Links
+
 [How many units of housing will be incentivized by the Harvard St plan?]( {{< ref harvard-street-incentivized-units >}} ) 
