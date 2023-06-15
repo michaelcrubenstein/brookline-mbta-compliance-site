@@ -6,7 +6,7 @@ categories: ["Form-based Zoning"]
 ---
 Form-based zoning can encompass many different types of requirements that are built into zoning by-laws. The common theme of form-based zoning is that all of the requirements are objective and measurable, not subjective.
 
-Limitations specified in form-based zoning can be relaxed for specific areas by creating an [overlay district]( {{< ref overlay-district >}} ) .
+Limitations specified in form-based zoning can be relaxed for specific areas by creating an [overlay district]( {{< ref overlay-district >}} ).
 
 ### Schematic Massing
 By-laws that ensure that the mass of a building is in scale with other buildings in its neighborhood.
