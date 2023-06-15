@@ -1,7 +1,7 @@
 ---
 title: "What might the Harvard Street proposal accomplish besides MBTA-CA compliance?"
 date: 2023-05-26
-weight: 280
+weight: 600
 categories: ["Harvard Street Zoning Proposal"]
 ---
 In addition to MBTA-CA compliance, the Harvard Street proposal could provide the following benefits:

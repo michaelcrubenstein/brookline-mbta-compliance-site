@@ -2,7 +2,7 @@
 title: Why shouldn't communities that are less dense than Brookline have to take a bigger share of the burden?
 date: 2023-06-06
 categories: ["Compliance"]
-weight: 124
+weight: 260
 ---
 Compliance with the MBTA-CA Guidelines uses a theoretical [capacity]( {{< ref capacity-use >}} ) to determine the minimum number of units in a compliant zoning district. Theoretical capacity is calculcated as if each parcel has no buildings on it. 
 

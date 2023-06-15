@@ -1,7 +1,7 @@
 ---
 title: "How do we balance the rights of people to do what they want with their property and the rights of residents to be able to control the character of their neighborhoods?"
 date: 2023-05-26
-weight: 160
+weight: 560
 categories: ["Community"]
 ---
 Balancing the rights of property owners with community standards is the work of democracy. Involvement of citizens, experts and legislatures is crucial.

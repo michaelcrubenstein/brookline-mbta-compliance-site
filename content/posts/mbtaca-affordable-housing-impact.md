@@ -1,8 +1,7 @@
 ---
 title: "Will MBTA-CA compliance create affordable housing in Brookline?"
 date: 2023-05-26
-draft: false
-weight: 130
+weight: 380
 categories: ["Affordability"]
 ---
 Compliance with the MBTA-CA requires changes to zoning. It is not a housing production plan, so it doesn't automatically create any housing, affordable or not.

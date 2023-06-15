@@ -2,7 +2,7 @@
 title: "If we eliminate parking minimums, will residents still have sufficient parking?"
 date: 2023-05-26
 draft: false
-weight: 210
+weight: 520
 categories: ["Community"]
 ---
 Even without parking minimums, most developers opt to provide parking on site to meet market demand, especially because Brookline prohibits overnight parking on the public ways.

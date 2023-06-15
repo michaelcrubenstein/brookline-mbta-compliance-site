@@ -1,7 +1,7 @@
 ---
 title: "What are the requirements that Brookline zoning by-laws must meet to be compliant with the MBTA-CA?"
 date: 2023-05-26
-weight: 70
+weight: 200
 categories: ["Compliance"]
 ---
 Brookline must designate a land area of at least 41 acres that allow multi-family housing by right, known as its "multi-family zoning district". The district must have a theoretical capacity of 6,990 units of housing.

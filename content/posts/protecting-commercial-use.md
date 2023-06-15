@@ -2,7 +2,7 @@
 title: "How can we keep our commercial districts like Coolidge Corner viable and still be compliant with the MBTA-CA?"
 date: 2023-05-26
 draft: false
-weight: 170
+weight: 510
 categories: ["Community"]
 ---
 1. Form-based zoning can help us [comply]( {{< ref advantages-of-form-based-zoning >}} )  with the MBTA-CA. By specifying [form-based zoning]( {{< ref form-based-zoning-categories >}} )  by-laws, we can constrain the buildings that are multi-family [as of right]( {{< ref permitting-by-right >}} )  to dramatically favor the maintenance and creation of first-floor retail. For example, making the first floor at ground level and have its frontage be 80% transparent.

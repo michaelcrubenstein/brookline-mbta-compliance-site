@@ -1,7 +1,7 @@
 ---
 title: "What is the difference between form-based zoning and conventional zoning?"
 date: 2023-05-26
-weight: 230
+weight: 300
 categories: ["Form-based Zoning"]
 ---
 [Form-based zoning]( {{< ref form-based-zoning-categories >}} ) describes precise measurable requirements for the forms of buildings and their surrounding, whereas conventional zoning defines some measurable limits that can lead to a variety of different forms for buildings and their surroundings. 

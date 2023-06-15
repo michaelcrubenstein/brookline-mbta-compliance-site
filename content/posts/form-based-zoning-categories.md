@@ -1,7 +1,7 @@
 ---
 title: "What kinds of zoning by-laws are form-based?"
 date: 2023-05-26
-weight: 240
+weight: 320
 categories: ["Form-based Zoning"]
 ---
 Form-based zoning can encompass many different types of requirements that are built into zoning by-laws. The common theme of form-based zoning is that all of the requirements are objective and measurable, not subjective.

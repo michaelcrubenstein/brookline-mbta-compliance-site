@@ -1,7 +1,7 @@
 ---
 title: "Are there design principles that would help regulate parking in form-based zoning by-laws?"
 date: 2023-05-26
-weight: 260
+weight: 330
 categories: ["Form-based Zoning"]
 ---
 The current zoning by-laws have no meaningful parameters for parking, such as where it is located.

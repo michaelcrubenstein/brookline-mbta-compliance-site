@@ -1,7 +1,7 @@
 ---
 title: "How many units of housing will be incentivized by the Harvard Street zoning proposal?"
 date: 2023-05-26
-weight: 281
+weight: 610
 categories: ["Harvard Street Zoning Proposal"]
 ---
 The Harvard Street zoning proposal doesn't have a production goal. 

@@ -1,7 +1,7 @@
 ---
 title: "What incentives provide relief for developers if they add affordable housing to their buildings?"
 date: 2023-05-26
-weight: 150
+weight: 390
 categories: ["Affordability"]
 ---
 In certain locations, the best economic use of the ground floor will be commercial, because owners can get higher rents from commercial leases than residential leases. 

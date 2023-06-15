@@ -2,7 +2,7 @@
 title: "Where does the goal for the number of likely units come from?"
 date: 2023-05-26
 draft: false
-weight: 110
+weight: 240
 categories: ["Compliance"]
 ---
 The MBTA Community Act does not require any housing to be built. It only requires zoning to allow sufficient multi-family housing in a compliant zoning district.

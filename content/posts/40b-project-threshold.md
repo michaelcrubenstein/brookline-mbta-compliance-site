@@ -1,7 +1,7 @@
 ---
 title: "How can we prevent being forced to accept 40B projects?"
 date: 2023-05-26
-weight: 320
+weight: 710
 categories: ["40B"]
 ---
 Brookline can reject 40B applications from developers when the {{< rawhtml >}}<a href="https://www.mass.gov/service-details/subsidized-housing-inventory-shi" target="_new">subsidized housing inventory</a>{{< /rawhtml >}} in Brookline is above 10% of the total housing stock. When Brookline's subsidized housing inventory is above that threshold, developers can not appeal such rejections.

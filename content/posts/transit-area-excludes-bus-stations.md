@@ -1,7 +1,7 @@
 ---
 title: "Why doesn't Brookline include bus stations in its transit area?"
 date: 2023-05-26
-weight: 150
+weight: 280
 categories: ["Compliance"]
 ---
 "When possible, multi-family zoning districts should be in areas that have safe, accessible, and convenient access to transit stations for pedestrians and bicyclists."
