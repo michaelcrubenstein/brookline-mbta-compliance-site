@@ -1,5 +1,5 @@
 ---
-title: "What is the impact of requiring Brookline to create a zoning district which allows multi-family-housing as of right?"
+title: "What is the impact of requiring Brookline to create a zoning district which allows multi-family housing as of right?"
 date: 2023-05-26
 draft: false
 weight: 30

@@ -7,6 +7,6 @@ categories: ["The Law"]
 ---
 A multi-use building combines multiple uses into the same building, such as residential and commercial, whereas a [multi-family building]( {{< ref multi-family-housing >}} ) contains only housing. 
 
-[What is the impact of requiring Brookline to create a zoning district which allows multi-family-housing as of right?]( {{< ref multi-family-housing-by-right >}} ) 
+[What is the impact of requiring Brookline to create a zoning district which allows multi-family housing as of right?]( {{< ref multi-family-housing-by-right >}} ) 
 
 
