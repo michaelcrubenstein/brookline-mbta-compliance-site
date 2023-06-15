@@ -11,4 +11,4 @@ However, the Select Board’s charge to the {{< rawhtml >}}<a href="https://www.
 
 ### Related Links
 
-[How many units of housing will be incentivized by the Harvard St plan?]( {{< ref harvard-street-incentivized-units >}} ) 
+[How many units of housing will be incentivized by the Harvard Street zoning proposal?]( {{< ref harvard-street-incentivized-units >}} ) 

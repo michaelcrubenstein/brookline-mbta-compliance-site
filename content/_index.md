@@ -28,7 +28,7 @@ This FAQ is for residents of the Town of Brookline to get answers to their quest
 
 [Will the MBTA-CA create affordable housing in Brookline?](/posts/mbtaca-affordable-housing-impact)
 
-[How many units of housing will be incentivized by the Harvard St plan?](/posts/harvard-street-incentivized-units)
+[How many units of housing will be incentivized by the Harvard Street zoning proposal?](/posts/harvard-street-incentivized-units)
 
 ## Preserving Brookline's Character
 
