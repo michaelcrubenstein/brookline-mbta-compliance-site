@@ -1,7 +1,6 @@
 ---
 title: "What is the voting threshold to pass a warrant article with zoning changes?"
 date: 2023-06-13
-draft: true
 weight: 110
 categories: ["Housing Choice"]
 ---

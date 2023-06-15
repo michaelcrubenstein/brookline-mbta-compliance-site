@@ -1,7 +1,6 @@
 ---
 title: "Who determines whether the Housing Choice threshold applies to a warrant article?"
 date: 2023-06-13
-draft: true
 weight: 120
 categories: ["Housing Choice"]
 ---
