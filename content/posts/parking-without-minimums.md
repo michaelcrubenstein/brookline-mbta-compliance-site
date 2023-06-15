@@ -1,12 +1,12 @@
 ---
-title: "If we eliminate parking minimums, where will people who buy units without parking park?"
+title: "If we eliminate parking minimums, will residents still have sufficient parking?"
 date: 2023-05-26
 draft: false
 weight: 210
 categories: ["Community"]
 ---
-Most developers opt to provide parking on site to meet market demand, as Brookline has a strict on-street parking bylaw, which precludes spill over parking in the public way for residents.
+Even without parking minimums, most developers opt to provide parking on site to meet market demand, especially because Brookline prohibits overnight parking on the public ways.
 
-The proposed zoning for Harvard Street would set a parking maximum of 1 parking space per dwelling unit. Based on parking data by census tract, 1 parking space is more than enough space to meet demand.
+In addition, the proposed zoning for Harvard Street would set a parking **maximum** of 1 parking space per dwelling unit. According to parking studies of Harvard Street, 1 parking space per unit is more than enough to meet demand.
 
-40B developers on Harvard Street have been granted waivers to provide 0.3 to 0.7 parking spaces per unit (none have requested no parking), which matches demand closely, according to the same parking data.
+Recent 40B developers on Harvard Street have been granted waivers to provide 0.3 to 0.7 parking spaces per unit, which closely matches demand according to the same parking studies. No developers have requested no parking.

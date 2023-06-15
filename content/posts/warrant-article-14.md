@@ -1,5 +1,5 @@
 ---
-title: "What is Warrant Article 14 of the May, 2023 Annual Town Meeting?"
+title: "What is Warrant Article 14 of the May 2023 Annual Town Meeting?"
 date: 2023-05-26
 draft: false
 hidden: true

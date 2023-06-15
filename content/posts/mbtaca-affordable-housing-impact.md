@@ -7,6 +7,6 @@ categories: ["Affordability"]
 ---
 Compliance with the MBTA-CA requires changes to zoning. It is not a housing production plan, so it doesn't automatically create any housing, affordable or not.
 
-Since [Warrant Article 14]( {{< ref warrant-article-14 >}} )  passed, Brookline has a requirement town-wide that multi-family housing with more than 10 units will have to have 15% of their units deed affordable. Any housing created in the multi-family zoning district will have to comply with this zoning by-law.
+Brookline has a requirement town-wide that at least 15% of multi-family housing with more than 10 units must be affordable. Any housing created in the multi-family zoning district must comply with requirement, approved by the 2023 Annual Town Meeting.
 
-The Select Board has established [goals for the town]( {{< ref goals-of-the-town >}} )  for our MBTA compliance that include that there will be at least 699 units of housing likely to be built in the multi-family zoning district.
+However, the Select Board has established [housing goals for the town]( {{< ref goals-of-the-town >}} ) apart from MBTA-CA requirements. Those include having enough capacity so that an additional 699 units of housing could be built as a result of changes to our zoning by-laws.

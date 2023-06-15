@@ -8,4 +8,4 @@ The Harvard Street zoning proposal doesn't have a production goal.
 
 Looking at existing 1 story retail buildings on Harvard Street, approximately 800 additional units of housing **could** be built within this proposed zoning district. 
 
-If we were to include 2 story buildings, another 400 additional units of housing could be built. However, the incentives to redevelop 2 story buildings are low because of the revenue lost during  construction. 
+If we were to include 2 story buildings, another 400 additional units of housing could be built. However, the incentives to redevelop 2 story buildings are low because of the revenue from two existing floors lost during construction. 
