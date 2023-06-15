@@ -11,12 +11,7 @@ url = "/brookline-mbta-compliance-site/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/brookline-mbta-compliance-site/posts/"
-weight = 2
-
-[[menu.main]]
 name = "About"
 url = "/brookline-mbta-compliance-site/about/"
-weight = 3
+weight = 2
 
