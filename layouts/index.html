@@ -12,18 +12,17 @@
 					{{- end -}}
 				</div>
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+				{{ $pages := where $pages "Params.hidden" "ne" true }}
 
-				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "The Law" "Title" "The Law") }}
-				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Compliance" "Title" "Compliance") }}
-				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Affordability" "Title" "Affordability") }}
-				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Community" "Title" "Community") }}
-				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Form-based Zoning" "Title" "Form-based Zoning") }}
-				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Harvard Street Zoning Proposal" "Title" "Harvard Street Zoning Proposal") }}
-				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "40B" "Title" "Chapter 40B") }}
-				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $paginator.Pages "Category" "Glossary" "Title" "Glossary") }}
-
-				{{ template "partials/paginator.html" . }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "The Law" "Stub" "the-law" "Title" "MBTA-CA Community Act") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Housing Choice" "Stub" "housing-choice" "Title" "Housing Choice") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Compliance" "Stub" "compliance" "Title" "Compliance") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Form-based Zoning" "Stub" "form-based-zoning" "Title" "Form-based Zoning") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Affordability" "Stub" "affordability" "Title" "Affordability") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Community" "Stub" "community" "Title" "Community") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Harvard Street Zoning Proposal" "Stub" "harvard-street-zoning-proposal" "Title" "Harvard Street Zoning Proposal") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "40B" "Stub" "40b" "Title" "Chapter 40B") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Glossary" "Stub" "glossary" "Title" "Glossary") }}
 			</main>
 			{{ partial "footer.html" . }}
 		</div>

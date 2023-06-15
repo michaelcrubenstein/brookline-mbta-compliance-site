@@ -2,11 +2,18 @@
 {{ $sectionPages := where .Pages "Params.categories" "intersect" (slice .Category) }}
 {{ if (gt (len $sectionPages) 0) }}
 	<h2>{{ .Title }}</h2>
-	{{ range $sectionPages }}
+	{{ range first 2 $sectionPages }}
 	<hr></hr>
 	<section class="list-item">
 		<p class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a></p>
 	</section>
 	{{ end }}
+{{ end }}
+{{ if (gt (len $sectionPages) 2) }}
+	<hr></hr>
+	{{ $href := ref .Ctx ( print "/categories/" .Stub ) }}
+	<section class="list-item">
+		<p class="title"><a href="{{$href}}">More...</a></p>
+	</section>
 {{ end }}
 
