@@ -15,13 +15,13 @@
 				{{ $pages := where $pages "Params.hidden" "ne" true }}
 
 				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "MBTA-CA Community Act" "Stub" "MBTA-CA-Community-Act" "Title" "MBTA-CA Community Act") }}
-				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Housing Choice" "Stub" "housing-choice" "Title" "Housing Choice") }}
 				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Compliance" "Stub" "compliance" "Title" "Compliance") }}
 				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Form-based Zoning" "Stub" "form-based-zoning" "Title" "Form-based Zoning") }}
 				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Affordability" "Stub" "affordability" "Title" "Affordability") }}
 				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Community" "Stub" "community" "Title" "Community") }}
 				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Harvard Street Zoning Proposal" "Stub" "harvard-street-zoning-proposal" "Title" "Harvard Street Zoning Proposal") }}
 				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "40B" "Stub" "40b" "Title" "Chapter 40B") }}
+				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Housing Choice" "Stub" "housing-choice" "Title" "Housing Choice") }}
 				{{ partial "pagecategory.html" (dict "Ctx" . "Pages" $pages "Category" "Glossary" "Stub" "glossary" "Title" "Glossary") }}
 			</main>
 			{{ partial "footer.html" . }}
