@@ -79,6 +79,16 @@
 			</script>
 	{{ end }}
 	
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-124LJB0Q1G"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-124LJB0Q1G');
+	</script>
+	
 	<!-- Custom CSS style get applied last -->
 	{{- if isset .Site.Params "customcss" }}
 		{{ range .Site.Params.customCSS }}
