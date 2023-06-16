@@ -8,4 +8,4 @@ Form-based zoning by-laws are specific, measurable and defensible. With form-bas
 
 There are several [categories]( {{< ref form-based-zoning-categories >}} ) of form-based zoning.
 
-By contrast, our current zoning by-laws use [conventional zoning]( {{< ref form-based-vs-conventional-zoning >}} ) .
+By contrast, our current zoning by-laws use [conventional zoning]( {{< ref form-based-vs-conventional-zoning >}} ).
