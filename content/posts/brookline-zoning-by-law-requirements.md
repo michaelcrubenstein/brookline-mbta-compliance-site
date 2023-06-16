@@ -4,9 +4,9 @@ date: 2023-05-26
 weight: 200
 categories: ["Compliance"]
 ---
-Brookline must designate a land area of at least 41 acres that allow multi-family housing by right, known as its "multi-family zoning district". The district must have a theoretical capacity of 6,990 units of housing.
+Brookline must designate a land area of at least 41 acres that allow multi-family housing by right, known as its "multi-family zoning district". The district must have a theoretical [capacity]( {{< ref capacity-use >}} ) of 6,990 units of housing.
 
-At least 50% of the district must be comprised of contiguous lots. Each part of the district must be at least 5 acres of contiguous lots. 
+At least 50% of the district must be comprised of contiguous parcels. No part of the district that is less than 5 contiguous acres can count toward the 41 acre minimum size requirement.
 
 90% of the district must be within 0.5 miles of an MBTA subway station, commuter rail station, ferry terminal or bus station. 
 

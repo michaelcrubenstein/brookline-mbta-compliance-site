@@ -8,7 +8,7 @@ Because Brookline is a "rapid transit community" (i.e., it has sufficient develo
 
 EOHLC has published {{< rawhtml >}}<a href="https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities" target="_new">final compliance guidelines</a>{{< /rawhtml >}} with which the plan Brookline submits must comply.
 
-Because the plan will include changes to our zoning by-laws, the changes must be approved by Town Meeting at a special meeting in November, 2023. Depending on the changes, the warrant article containing the changes may require a 2/3 majority to be enacted.
+Because the plan will include changes to our zoning by-laws, the changes must be approved by Town Meeting at a special meeting in November 2023. Depending on the changes, the warrant article containing the changes may require a 2/3 majority to be enacted.
 
 ### Related Links
 
