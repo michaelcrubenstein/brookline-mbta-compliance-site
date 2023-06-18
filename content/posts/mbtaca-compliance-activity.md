@@ -15,4 +15,4 @@ The {{< rawhtml >}}<a href="https://www.brooklinema.gov/2044/Multifamily-MBTA" t
 
 [What does the MBTA-CA require that the Town of Brookline do?]( {{< ref mbtaca-requirements >}} )
 
-[What goals does the town have besides compliance with the MBTA-CA?]( {{< ref goals-of-the-town >}} ) 
+[What goals does the town have alongside compliance with the MBTA-CA?]( {{< ref goals-of-the-town >}} ) 
