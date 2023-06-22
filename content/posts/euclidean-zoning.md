@@ -1,5 +1,5 @@
 ---
-title: "What is Euclidean zoning?"
+title: "Euclidean Zoning?"
 date: 2023-06-21
 weight: 2032
 categories: ["Glossary"]
