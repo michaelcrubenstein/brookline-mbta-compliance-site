@@ -21,3 +21,5 @@ On the Town Meeting Member Association listserv, some town meeting members have 
 ### Related Links
 
 [What is the town doing to comply with the MBTA-CA?]( {{< ref mbtaca-compliance-activity >}} ) 
+
+{{< rawhtml >}}<a href="https://www.brooklinema.gov/DocumentCenter/View/40149/20230303-MBTA-Communities-Act-Noncompliance-FINAL" target="_new">Memo from Town Administrator and Town Counsel: MBTA Communities Act Noncompliance</a>{{< /rawhtml >}}
