@@ -37,3 +37,7 @@ By-laws that ensure that a building is used in such a way that minimizes the dis
 By-laws that ensure that a building and its surrounding protect the environment of the building. 
 
 For example, creating a Tree By-law for North Brookline.
+
+### Related Links
+
+[What is the difference between form-based zoning and Euclidean zoning?]( {{< ref form-based-vs-conventional-zoning >}} )

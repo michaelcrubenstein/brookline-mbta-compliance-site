@@ -5,7 +5,7 @@ draft: false
 weight: 510
 categories: ["Community"]
 ---
-1. Form-based zoning can help us [comply]( {{< ref advantages-of-form-based-zoning >}} )  with the MBTA-CA. By specifying [form-based zoning]( {{< ref form-based-zoning-categories >}} )  by-laws, we can constrain the buildings that are multi-family [as of right]( {{< ref permitting-by-right >}} )  to dramatically favor the maintenance and creation of first-floor retail. For example, making the first floor at ground level and have its frontage be 80% transparent.
+1. Form-based zoning can help us [comply]( {{< ref advantages-of-form-based-zoning >}} )  with the MBTA-CA. By specifying [form-based codes]( {{< ref form-based-zoning-categories >}} ) in our zoning by-law, we can constrain the buildings that are multi-family [as of right]( {{< ref permitting-by-right >}} ) to dramatically favor the maintenance and creation of first-floor retail. For example, making the first floor at ground level and have its frontage be 80% transparent.
 2. The Economic Development Advisory Board and the Housing Advisory Board are working on a proposal to provide [developer relief for commercial retail]( {{< ref developer-relief-for-commercial-retail >}} ).
 3. By increasing the residential population that is proximate to Coolidge Corner, we can better support the commercial activity there.
 

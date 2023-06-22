@@ -1,9 +1,11 @@
 ---
-title: "What is the difference between form-based zoning and conventional zoning?"
-date: 2023-05-26
+title: "What is the difference between form-based zoning and Euclidean zoning?"
+date: 2023-06-21
 weight: 300
 categories: ["Form-based Zoning"]
 ---
-[Form-based zoning]( {{< ref form-based-zoning-categories >}} ) describes precise measurable requirements for the forms of buildings and their surrounding, whereas conventional zoning defines some measurable limits that can lead to a variety of different forms for buildings and their surroundings. 
+[Form-based codes]( {{< ref form-based-zoning-categories >}} ) describe precise measurable requirements for the forms of buildings and how they integrate with their surroundings, whereas [Euclidean zoning]( {{< ref euclidean-zoning >}}) defines zones with specific limits on the uses and types of buildings within each zone, such as industrial, commercial or residential uses. 
 
-For example, conventional zoning might specify a Floor-Area Ratio, which can lead to buildings with dramatically different shapes (a building with one floor of 5000 square feet and a building with five floors of 1000 square feet would both have the same floor area). With form-based zoning, a building might specify a maximum building height, step-backs from one floor to the next, floor heights, roof shapes, surface requirements, landscaping requirements, etc. With greater specificity, form-based zoning leads to more predictable outcomes. 
+### Related Links
+
+[What kinds of zoning by-laws are form-based?]( {{< ref form-based-zoning-categories >}} )
