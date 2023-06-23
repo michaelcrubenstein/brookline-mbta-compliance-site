@@ -4,7 +4,7 @@ date: 2023-05-26
 weight: 330
 categories: ["Form-based Zoning"]
 ---
-The current zoning by-laws have no meaningful parameters for parking, such as where it is located.
+The current zoning by-law has no meaningful parameters for parking, such as where it is located.
 
 If we want design guidelines built into our zoning that are conducive to successful retail, active ground floor design guidelines could include:
 
