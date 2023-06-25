@@ -4,6 +4,7 @@ title = 'Brookline Compliance With The MBTA Community Act'
 theme = 'mbtaca'
 [params]
   version = '1.0'
+  google = 'google9e5a09349208fc21.html'
 
 [[menu.main]]
 name = "Home"
