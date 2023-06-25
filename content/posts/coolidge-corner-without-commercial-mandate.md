@@ -1,6 +1,6 @@
 ---
 title: "If we don’t mandate commercial use, what will happen to all of the stores in Coolidge Corner?"
-date: 2023-05-26
+date: 2023-06-24
 weight: 500
 categories: ["Community"]
 ---
