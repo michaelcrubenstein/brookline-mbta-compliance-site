@@ -6,9 +6,12 @@ categories: ["Community"]
 ---
 Studies of Harvard Street have confirmed that, for building owners, ground floor retail is the best use of most parcels along Harvard Street, because owners can get the most dollars per square foot through a commercial lease.
 
-Even without a mandate for ground-floor commercial use, we can [incentivize ground floor retail]( {{< ref protecting-commercial-use >}} ) so strongly that it won't be economically reasonable for property owners to eliminate existing ground-floor retail.
+In addition to the incentive to maximize the dollars per square foot, we can [incentivize ground floor retail]( {{< ref protecting-commercial-use >}} ) to further reduce the risk of losing retail space in Coolidge Corner. 
+
+While that risk is not zero percent, the risk of losing ground floor retail in an MBTA-CA compliant district is minimal relative to the likelihood that building owners will take advantage of the economic incentives. In addition, as commercial tenants benefit from a higher density of patrons for their businesses, some of that benefit may flow to building owners in the form of more valuable leases.
 
 ### Related Links
 
 [What is the difference between form-based zoning and Euclidean zoning?]( {{< ref form-based-vs-conventional-zoning >}} )
+
 [What is Euclidean zoning?]( {{< ref euclidean-zoning >}} )
