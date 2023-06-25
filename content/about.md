@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Frequently Asked Questions about Brookline's path to compliance with the MBTA Community Act"
-date = "2023-05-28"
+date = "2023-06-24"
 aliases = ["about-us","contact"]
 author = "Michael Rubenstein"
 +++
@@ -19,4 +19,4 @@ Please send feedback to [Michael Rubenstein](mailto:mbtaca@michaelrubenstein.com
 
 Thanks to Cathleen Cavell for her help editing the content of this website.
 
-Current as of June 23, 2023
+Current as of June 24, 2023
