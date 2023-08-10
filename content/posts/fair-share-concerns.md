@@ -8,7 +8,7 @@ According to the MBTA-CA Guidelines, communities with access to rapid transit, l
 
 However, theoretical capacity is calculated as if each parcel has no buildings on it. 
 
-Since Brookline’s compliant zoning district is more likely to have buildings in it already, the burden on Brookline to build additional housing could actually be relatively lower than other, less dense communities. For example, if Brookline builds only 700 housing units within its multi-family zoning district, that would increase the number of housing units in Brookline by only 2.5%.
+Since Brookline’s compliant zoning district is more likely to have buildings in it already, the burden on Brookline to build additional housing could be relatively lower than other, less dense communities. For example, if Brookline builds only 700 housing units within its multi-family zoning district, that would increase the number of housing units in Brookline by only 2.5%.
 
 {{< rawhtml >}}<a href="https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities" target="_new">Zoning Requirements for MBTA Communities</a><br><br>
 <a href="https://www.mass.gov/info-details/section-3a-guidelines" target="_new">Section 3A Guidelines</a>{{< /rawhtml >}}
