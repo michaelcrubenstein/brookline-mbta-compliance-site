@@ -20,7 +20,7 @@ In combination, the by-law amendment and a solution to MBTA-CA compliance that i
 
 [What goals does the town have alongside compliance with the MBTA-CA?]( {{< ref goals-of-the-town >}} )
 
-[How many units of housing will be incentivized by the Harvard Street zoning proposal?]( {{< ref harvard-street-incentivized-units >}} ) 
+[How many units of affordable housing will the Harvard Street zoning proposal lead to?]( {{< ref harvard-street-affordable-units >}} ) 
 
 [What goals did the Select Board establish for the MBTA-CA Multifamily Permitting?]( {{< ref mmpc-goals >}} )
 

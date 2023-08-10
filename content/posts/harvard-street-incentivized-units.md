@@ -6,7 +6,7 @@ categories: ["Harvard Street Zoning Proposal"]
 ---
 The Harvard Street zoning proposal doesn't have a production goal. 
 
-According to analysis done by the Planning Department, approximately 800 additional units of housing **could** be built within the proposed Harvard Street zoning district on parcels currently containing 1 story retail buildings. 
+According to analysis done by the Planning Department, the Harvard Street zoning proposal would lead to approximately 800 additional housing units. This new housing would be built over time on parcels currently containing 1 story retail buildings. 
 
 Another 400 additional units of housing **could** be built if the TJ Maxx and Stop & Shop sites were redeveloped as 4 story buildings with minimal open space. Furthermore, future density bonuses could permit even more units by allowing more than four stories on parts of these sites.
 
@@ -15,3 +15,7 @@ A property owner considers many factors when deciding whether to redevelop a one
 - What are their short- and long-term financial goals?
 - Is the revenue from existing tenants lucrative?
 - Could they bear the loss of revenue from existing tenants?
+
+### Related Links
+
+[How many units of affordable housing will the Harvard Street zoning proposal?]( {{< ref harvard-street-affordable-units >}} )
