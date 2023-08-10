@@ -9,3 +9,7 @@ Brookline can reject 40B applications from developers when the {{< rawhtml >}}<a
 Thus, to prevent us from bring forced to accept 40B projects, we would have to build or permit housing units that become part of our subsidized housing inventory to stay above the threshold.
 
 Currently, Brookline's inventory moves above or below the threshold frequently, and developers can time their 40B applications to take advantage of Brookline's failure to meet its threshold.
+
+### Related links
+
+[What is 40B?]( {{< ref 40b >}} )
