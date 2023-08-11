@@ -1,11 +1,9 @@
 ---
 title: "What happens if Brookline fails to comply with the MBTA-CA?"
-date: 2023-05-26
+date: 2023-08-11
 weight: 230
 categories: ["Compliance"]
 ---
-The MBTA-CA penalizes non-compliant municipalities by denying access to some state funding for public housing.
-
 The Massachusetts Attorney General has advised that MBTA communities that fail to comply with the MBTA-CA will be subject to civil enforcement action as well as liability under federal and state fair housing laws.
 
 According to conversations with the Town Counsel the following would likely occur:
