@@ -1,6 +1,6 @@
 baseURL = 'https://michaelcrubenstein.github.io/brookline-mbta-compliance-site'
 languageCode = 'en-us'
-title = 'Brookline Compliance With The MBTA Community Act'
+title = 'Brookline Compliance With The MBTA Communities Act'
 theme = 'mbtaca'
 [params]
   version = '1.0'
