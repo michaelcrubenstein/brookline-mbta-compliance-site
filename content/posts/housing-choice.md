@@ -10,4 +10,3 @@ Housing Choice is a bill passed into law in 2020 that amends Massachusetts zonin
 
 {{< rawhtml >}}<a href="https://www.mass.gov/info-details/housing-choice-legislation" target="_new">Housing Choice Legislation</a><br><br>
 <a href="https://www.mass.gov/info-details/voting-threshold-guidance" target="_new">Voting Threshold Guidance</a><br><br>{{< /rawhtml >}}
-[Who determines whether the Housing Choice threshold applies to a warrant article?]( {{< ref housing-choice-determination >}} )
