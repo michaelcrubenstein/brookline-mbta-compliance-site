@@ -8,7 +8,7 @@ Inclusionary zoning by-laws require developers to either include affordable unit
 
 As a result of a recent amendment to Brookline's inclusionary zoning by-laws, passed at Town Meeting in May 2023, buildings with at least 11 housing units must include affordable housing units on site. 
 
-For buildings with 4 to 10 units, developers are allowed to pay into the Affordable Housing Trust Fund in lieu of creating affordable housing.
+For buildings with 4 to 10 units, developers are allowed to pay into the Affordable Housing Trust Fund in lieu of creating affordable housing. However, in the MBTA-CA Consensus Warrant Article, this option will not be allowed along Harvard Street; all affordable units must be on site.
 
-According to the MBTA-CA Community Act, Brookline can't require more than 10% of units for a building be affordable for residents at 80% of the area median income (AMI) in its MBTA-CA compliant zoning district. However, by documenting its economic feasibility of stricter inclusionary zoning town-wide, we can require stricter inclusionary zoning: 15% of units for a building must be affordable for residents at 50% AMI. As of May 2023, we are in the process of documenting such economic feasibility.
+According to the MBTA-CA Communities Act, Brookline can't require more than 10% of units for a building be affordable for residents at 80% of the area median income (AMI) in its MBTA-CA compliant zoning district. However, by documenting its economic feasibility of stricter inclusionary zoning town-wide, we can require stricter inclusionary zoning: 15% of units for a building must be affordable for residents at 50% AMI. As of August 2023, we are in the process of documenting such economic feasibility.
 
