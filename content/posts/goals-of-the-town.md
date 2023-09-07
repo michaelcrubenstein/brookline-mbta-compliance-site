@@ -14,4 +14,4 @@ The following goals of Brookline were approved in a {{< rawhtml >}}<a href="http
 
 [What goals did the Select Board establish for the MBTA-CA Multifamily Permitting?]( {{< ref mmpc-goals >}} )
 
-[How many units of housing will be incentivized by the Harvard Street zoning proposal?]( {{< ref harvard-street-incentivized-units >}} ) 
+[How many units of housing will be incentivized by the MBTA-CA Consensus Warrant Article?]( {{< ref harvard-street-incentivized-units >}} ) 
