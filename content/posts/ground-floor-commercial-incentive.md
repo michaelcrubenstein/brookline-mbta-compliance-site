@@ -1,8 +1,8 @@
 ---
-title: "What is the ground floor commercial incentive included in the MBTA-CA Consensus Warrant Article?"
+title: "Ground Floor Commercial Incentive"
 date: 2023-09-07
-weight: 392
-categories: ["Affordability"]
+weight: 2036
+categories: ["Glossary"]
 ---
 Brookline needs housing that is affordable for people earning a variety of income levels, including "workforce" housing.
 
