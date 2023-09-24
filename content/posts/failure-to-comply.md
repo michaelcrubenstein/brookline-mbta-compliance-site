@@ -1,7 +1,7 @@
 ---
 title: "What happens if Brookline fails to comply with the MBTA-CA?"
 date: 2023-08-11
-weight: 230
+weight: 271
 categories: ["Compliance"]
 ---
 The Massachusetts Attorney General has advised that MBTA communities that fail to comply with the MBTA-CA will be subject to civil enforcement action as well as liability under federal and state fair housing laws.
