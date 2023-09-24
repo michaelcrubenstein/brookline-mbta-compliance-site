@@ -14,7 +14,7 @@ The differences between STM1 WA3, STM3 WA1 and STM4 WA1 are in how much of the {
 - STM3 WA1 mandates GFC in H-MS, H-MSN and H-MST zones, but not H-MS-O zones. This includes all of Harvard Street except for a few parcels within Brookline Village and many parcels North of Coolidge Corner.
 - STM4 WA1 mandates GFC in all H zones.
 
-The intention of the Select Board was to increase the area where GFC is required in the warrant article so that negotiations for limiting GFC could proceed without running afoul of scope issues caused by adding GFC mandates. STM3 WA1 was expected to fulfill this need, but the Select Board erred in drafting STM3 WA1. Thus, they drafted STM4 WA1.
+The intention of the Select Board was to increase the area where GFC is required in the warrant article so that negotiations for limiting GFC could proceed without running afoul of scope issues caused by adding GFC mandates. STM3 WA1 was expected to fulfill this need, but some language was inadvertently left out in drafting STM3 WA1. Thus, they drafted STM4 WA1.
 
 Only STM4 WA1 will be moved at town meeting by the Select Board. STM1 WA3 and STM3 WA1 will not be moved, so, unless another Town Meeting member moves them (a rogue action), they will be ignored.
 
