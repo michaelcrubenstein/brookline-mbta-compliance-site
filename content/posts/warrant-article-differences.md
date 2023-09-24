@@ -1,8 +1,8 @@
 ---
-title: "What are the differences between the various warrant articles files to comply with the MBTA-CA?"
+title: "What are the differences between the various warrant articles filed to comply with the MBTA-CA?"
 date: 2023-09-24
 draft: false
-weight: 221
+weight: 230
 categories: ["Compliance"]
 ---
 #### STM1 WA3, STM3 WA1 and STM4 WA1
