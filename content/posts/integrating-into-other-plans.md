@@ -2,6 +2,7 @@
 title: "What is the process Brookline will use to arrive at our MBTA-CA compliant zoning district?"
 date: 2023-05-26
 weight: 270
+draft: true
 categories: ["Compliance"]
 ---
 The MBTA-CA Multifamily Permitting Committee is charged with generating a proposal and delivering its proposal to the Select Board. That proposal may include elements of the Harvard Street proposal.
