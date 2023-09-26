@@ -24,3 +24,7 @@ STM1 WA4 and STM1 WA5 are identical. They contain the M Zone Overlay District, t
 STM1 WA4 was filed by the Select Board and STM1 WA5 was files by a group of TMMs that were concerned that the Select Board might not file STM1 WA4. These TMMs wanted to ensure that the option to exclude Harvard Street is in the warrant and can be moved and debated.
 
 It is expected that STM1 WA5 will be withdrawn, similar to STM1 WA3 and STM3 WA1.
+
+### Related Links
+
+{{< rawhtml >}}<a href="https://www.brooklinema.gov/DocumentCenter/View/44832/Harvard-St-District-Map" target="_new">Harvard Street District Map</a>{{< /rawhtml >}}
