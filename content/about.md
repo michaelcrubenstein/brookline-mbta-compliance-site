@@ -1,13 +1,13 @@
 +++
 title = "About"
-description = "Frequently Asked Questions about Brookline's path to compliance with the MBTA Community Act"
+description = "Frequently Asked Questions about Brookline's path to compliance with the MBTA Communities Act"
 date = "2023-06-24"
 aliases = ["about-us","contact"]
 author = "Michael Rubenstein"
 +++
 
 This website contains answers to common questions raised while Brookline 
-wrestles with how to comply with the MBTA Community Act.
+wrestles with how to comply with the MBTA Communities Act.
 
 I, Michael Rubenstein, am responsible for the content of this website. Its contents have 
 not been reviewed or endorsed by the Town of Brookline, any department, board or committee thereof, the State of Massachusetts, any office or department thereof or any other organization or individual.

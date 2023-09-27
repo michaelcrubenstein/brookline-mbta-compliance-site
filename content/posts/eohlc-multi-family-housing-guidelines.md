@@ -2,9 +2,9 @@
 title: "What guidelines has the EOHLC published?"
 date: 2023-05-26
 weight: 50
-categories: ["MBTA-CA Community Act"]
+categories: ["MBTA Communities Act"]
 ---
-The [EOHLC]( {{< ref eohlc >}} ) has published guidelines that describe how cities and towns must comply with the [MBTA-CA]( {{< ref mbta-community-act >}} ).
+The [EOHLC]( {{< ref eohlc >}} ) has published guidelines that describe how cities and towns must comply with the [MBTA-CA]( {{< ref mbta-communities-act >}} ).
 
 For example, there are guidelines for {{< rawhtml >}}<a target="_new" href="
 https://www.mass.gov/info-details/section-3a-guidelines#4.-allowing-multi-family-housing-“as-of-right”-">allowing multi-family housing "as of right"</a>{{< /rawhtml >}}
